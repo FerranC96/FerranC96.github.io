@@ -6,13 +6,9 @@
         <script type="text/javascript" src="d3.js"></script>
     </head>
     <body>
-        <h1>Aprenent a utilitzar D3!</h1>
+        <h1>My page will live here!</h1>
         <script type="text/javascript">
-            var dataset = [ 5, 10, 15, 20, 25 ];
             d3.select("body").append("p").text("En construcció! ;)");
-            d3.select("body").selectAll("p")
-            .data(dataset).enter()
-            .append("p").text(function(d) { return d; });
         </script>
     </body>
 </html>
