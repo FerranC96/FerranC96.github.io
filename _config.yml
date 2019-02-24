@@ -40,3 +40,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
+#Let's see if the themes in jekyll work:
+theme: jekyll-theme-minimal
