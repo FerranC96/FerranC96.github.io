@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: FerranC96
 ---
 #1.-Un coixinet
