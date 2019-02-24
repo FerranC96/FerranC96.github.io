@@ -1,15 +1,16 @@
 ---
 layout: default
-title: FerranC96
+title: About me
+logo: 
 ---
-#1.-Un coixinet
+#1.-Un coixinet#
 
-##2.-WORK IN PROGRESS / EN CONSTRUCCIÓ
+##2.-WORK IN PROGRESS / EN CONSTRUCCIÓ##
 
 This is a [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 Based on [nicolas-van's work](https://github.com/nicolas-van/bootstrap-4-github-pages).
 
-###3.-About me / Sobre mi
+###3.-About me / Sobre mi###
 
 My name is Ferran Cardoso Rodriguez and this is my site.
 
