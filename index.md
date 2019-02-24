@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About me
+title: Ferran Cardoso Rodriguez
 logo: 
 ---
-#1.-Un coixinet#
+<h1>#1.-Un coixinet#</h1>
 
 ##2.-WORK IN PROGRESS / EN CONSTRUCCIÓ##
 
