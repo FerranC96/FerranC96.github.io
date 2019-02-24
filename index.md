@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ferran Cardoso Rodriguez
+title: Ferran Cardoso
 logo: 
 ---
 <h1>#1.-Un coixinet#</h1>
