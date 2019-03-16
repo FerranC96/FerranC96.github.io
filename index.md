@@ -3,20 +3,9 @@ layout: default
 title: Ferran Cardoso
 logo: 
 ---
-<h1>#1.-Un coixinet#</h1>
-
-##2.-WORK IN PROGRESS / EN CONSTRUCCIÓ##
+<h2>WORK IN PROGRESS / EN CONSTRUCCIÓ</h2>
 
 This is a [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 Based on [nicolas-van's work](https://github.com/nicolas-van/bootstrap-4-github-pages).
 
-###3.-About me / Sobre mi###
-
-My name is Ferran Cardoso Rodriguez and this is my site.
-
-Estudis:
-
-* **Bachelor's Degree**: Grau de Biotecnologia, Universitat de Barcelona (2014-2018)
-* **Master's Degree**: MSc in Bioinformatics and Theoretical Systems Biology, Imperial College London (2018-2019)
-
-That's all folks!
+<iframe src="https://docs.google.com/gview?url=https://github.com/FerranC96/FerranC96.github.io/blob/master/FerranCardoso_19_CV.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
