@@ -9,6 +9,6 @@
   </body>
 </html> -->
 
-<iframe src="https://github.com/FerranC96/FerranC96.github.io/raw/master/Documents/FerranCardoso_19_CV.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://github.com/FerranC96/FerranC96.github.io/raw/master/Documents/FerranCardoso_19_CV.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
 
-<iframe src="https://github.com/FerranC96/FerranC96.github.io/raw/master/Documents/FerranCardoso_19_CV.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://github.com/FerranC96/FerranC96.github.io/raw/master/Documents/FerranCardoso_19_CV.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
