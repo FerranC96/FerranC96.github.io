@@ -9,4 +9,5 @@ order: 4
 
 Brief CV
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/FerranC96/FerranC96.github.io/raw/master/assets/FerranCardoso_22_CV.pdf&embedded=true" style="width:600px; height:846px;" frameborder="0"></iframe> 
+<iframe src="https://docs.google.com/gview?url=https://github.com/FerranC96/FerranC96.github.io/raw/main/assets/FerranCardoso_22_CV_.pdf.pdf&embedded=true" style="width:600px; height:846px;" frameborder="0"></iframe> 
+
