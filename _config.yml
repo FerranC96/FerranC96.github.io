@@ -23,10 +23,10 @@ timezone: Europe/London
 
 title: Ferran Cardoso                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Personal profile and professional portfolio   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Personal profile, portfolio of academical publications and other outputs using
+  Ferran Cardoso's personal profile, portfolio of academical publications and other outputs using
   a minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
