@@ -5,8 +5,6 @@ order: 4
 math: true
 ---
 
-# About me
-
 I'm a PhD student interested in single-cell omics (mostly scRNA-seq), cancer 
 and stemness. Currently $$\frac{3}{4}$$ths into my PhD at the [Tape Lab](http://tape-lab.com/).
 
