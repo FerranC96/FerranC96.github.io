@@ -15,9 +15,8 @@ a pint!
 
 ## Brief CV
 
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/FerranCardoso_22_CV.pdf&embedded=true" style="width:600px; height:846px;" frameborder="0"></iframe> 
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/FerranCardoso_22_CV.pdf&embedded=true" style="width:600px; height:846px; max-width: 96%" frameborder="0"></iframe> 
 
 ## Detailed CV
 
 Work In Progress
-
