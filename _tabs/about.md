@@ -22,3 +22,7 @@ SHe also draws and you can check out her portfolio and store in here. -->
 ## Detailed CV
 
 Work In Progress
+
+<!-- Badge test:
+{{ site.linkedin_badge }} -->
+

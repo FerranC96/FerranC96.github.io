@@ -1,5 +1,5 @@
 ---
-title: Recent Discoveries @ the Cancer Institute annual conference
+title: Recent Discoveries @ the CI 2022 conference
 date: 2022-07-01 00:00:00 +0000
 categories: [Conference/Event, Talk]
 ---
