@@ -26,8 +26,9 @@ title: Ferran Cardoso                          # the main title
 tagline: Personal profile and professional portfolio   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Ferran Cardoso's personal profile, portfolio of academical publications, and other outputs. 
+  Ferran Cardoso`s personal profile, portfolio of academical publications, and other outputs. 
   Uses a minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  <a rel="me" href="https://fosstodon.org/@ferranc96">Mastodon</a>
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ferranc96.github.io'
@@ -84,7 +85,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1319183805144584192/Z03PfUrC_400x400.jpg
+avatar: https://cdn.fosstodon.org/accounts/avatars/109/310/658/398/751/756/original/da979d764b4d1774.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
