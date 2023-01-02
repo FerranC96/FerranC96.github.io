@@ -26,3 +26,4 @@ Work In Progress
 <!-- Badge test:
 {{ site.linkedin_badge }} -->
 
+<a rel="me" href="https://fosstodon.org/@ferranc96"></a>
