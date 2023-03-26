@@ -17,7 +17,7 @@ results, highlights of what I learned and my overall impressions on it.
 At the technical/deployment level, one of the things that surprised the most was the concept of using Jupyter Notebooks not only for exploration but also for building the backbone of packages, perform unit testing and build documentation.
 All of this can be done through [nbdev](https://nbdev.fast.ai/)
 
-![Desktop View](https://nbdev.fast.ai/images/card.png){: width="972" height="589" style="max-width: 200px" .right}
+![Desktop View](https://nbdev.fast.ai/images/card.png){: width="972" height="589" style="max-width: 200px"}
 _From nbdev's site_
 
 This philosophy really puts forward the idea of readability and openness at all levels, so I decided to apply it to a couple of upcoming projects.

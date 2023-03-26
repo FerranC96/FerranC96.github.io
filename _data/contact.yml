@@ -4,8 +4,16 @@
   type: github
   icon: 'fab fa-github'
 -
+  type: mastodon
+  icon: 'fab fa-mastodon'   
+  url:  'https://fosstodon.org/@ferranc96'
+-
   type: twitter
   icon: 'fab fa-twitter'
+-
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/ferranc96/'
 -
   type: email
   icon: 'fas fa-envelope'
