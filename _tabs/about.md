@@ -21,7 +21,23 @@ SHe also draws and you can check out her portfolio and store in here. -->
 
 ## Detailed CV
 
-Work In Progress section
+**Work In Progress section**
+
+- **Occupation:** Computational PhD Student
+- **Institution:** UCL's Cancer Institute
+- **Location:** London, England, United Kingdom
+- **Interests:** Cancer, plasticity, tumour micro-environment and genetic alterations
+- **Projects:**
+  - Developed a pipeline for analyzing and visualizing CyTOF datasets through PTM signaling networks and cell-state classification via ensemble methods (Sep 2019 - Present).
+  - Worked on Valley-Ridge score and single-cell Waddington-like landscapes (Sep 2019 - Present).
+  - Used novel computational approaches to study CRC tumour microenvironment organoids through single-cell technologies (Sep 2019 - Present).
+  - Taught tutorials for the CINS0018: Pathogens and Cancer 22/23 course (Feb 2023 - Mar 2023).
+  - Participated in a UCL-Yale exchange program and worked on developing new methods to analyze multi-omics data to characterize inter- and intra-cellular communications using graph-based approaches (Aug 2022 - Oct 2022).
+- **Education:**
+  - PhD in Computational Biology at UCL Cancer Institute (Sep 2019 - Present)
+  - MSc Project 3 - AnnoRE pipeline at Imperial College London (Jun 2019 - Sep 2019)
+  - MSc Project 2 - scRNA-seq data analysis at Imperial College London (Apr 2019 - Jun 2019)
+  - MSc Project 1 - FBA app back-end at Imperial College London (Jan 2019 - Apr 2019)
 
 <!-- Badge test:
 {{ site.linkedin_badge }} -->
