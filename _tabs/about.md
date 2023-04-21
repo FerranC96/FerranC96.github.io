@@ -5,8 +5,8 @@ order: 4
 math: true
 ---
 
-I'm a PhD student interested in single-cell omics (mostly scRNA-seq), cancer 
-and stemness. Currently $$\frac{3}{4}$$ths into my PhD at the [Tape Lab](http://tape-lab.com/).
+I'm a Computational Biology PhD student interested in single-cell omics (mostly scRNA-seq), cancer 
+and stemness. Currently $$\frac{7}{8}$$ths into my PhD at the [Tape Lab](http://tape-lab.com/).
 
 I love both nature and tech, and will rarely refuse going out for 
 a pint!
