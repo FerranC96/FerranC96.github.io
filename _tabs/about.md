@@ -3,6 +3,7 @@ title: About
 icon: fas fa-info-circle
 order: 4
 math: true
+toc: true
 ---
 
 ### Hi there 👋
@@ -106,15 +107,15 @@ English teacher of kids between 6 and 12 years old. Also playing as a receptioni
 
 ### Licenses & Certifications
 
-- Certificate of Proficiency in English - Cambridge University Press & Assessment | English |500/2429/2
+- Certificate of Proficiency in English - Cambridge University Press & Assessment (500/2429/2)
 
-- DELF B1 - France Éducation international |034003-201209J-1848632
+- DELF B1 - France Éducation international (034003-201209J-1848632)
 
 ### Honors & Awards
 
-- Distinció de les PAU - Consell Interuniversitari de Catalunya |2014| Granted to those students that achieved a qualification of 9/10, or more, in the general phase of the University Access Tests (PAU).
+- Distinció de les PAU - Consell Interuniversitari de Catalunya (2014). Granted to those students that achieved a qualification of 9/10, or more, in the general phase of the University Access Tests (PAU).
 
-- Matrícula d'Honor en el Batxillerat - Institut Joan Miró |2014|
+- Matrícula d'Honor en el Batxillerat - Institut Joan Miró (2014).
 
 
 
