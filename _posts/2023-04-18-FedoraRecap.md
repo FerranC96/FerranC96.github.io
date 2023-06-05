@@ -1,5 +1,5 @@
 ---
-title: Fedora Silverblue 38 and a year of full time Linux and immutable OSes
+title: Fedora Silverblue 38 and a year of Linux and immutable OSes
 date: 2023-04-18 00:00:00 +0000
 categories: [Tech, Linux]
 ---

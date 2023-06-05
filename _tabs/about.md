@@ -5,19 +5,22 @@ order: 4
 math: true
 ---
 
-I'm a Computational Biology PhD student interested in single-cell omics (mostly scRNA-seq), cancer 
-and stemness. Currently $$\frac{7}{8}$$ths into my PhD at the [Tape Lab](http://tape-lab.com/).
+### Hi there 👋
 
-I love both nature and tech, and will rarely refuse going out for 
-a pint!
-<!-- Girldfirend and I love travelling.
-SHe also draws and you can check out her portfolio and store in here. -->
+I'm a last year PhD Student in Computational Biology working with single-cell omics data at the [Tape Lab](http://tape-lab.com/).
+Interested in looking into cancer, plasticity and how the tumour micro-environment and genetic alterations interact to control these processes.
+Always eager to learn new things!
+
+⚡  Fun fact: I love both nature🌿 and tech👨‍💻, and will rarely refuse going out for a pint🍻!
+
+❣️  Check her out!: My fiance is a researcher that loves drawing on her spare time. Check out the amazing things she's done as [Aquacletas here](https://aquacletas.github.io/)!
+
 
 # Curriculum vitae
 
 ## Brief CV
 
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/FerranCardoso_23_CV.pdf&embedded=true" style="width:600px; height:846px; max-width: 100%" frameborder="0"></iframe> 
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/FerranCardoso_23CV.pdf&embedded=true" style="width:600px; height:846px; max-width: 100%" frameborder="0"></iframe> 
 
 ## Detailed CV
 
