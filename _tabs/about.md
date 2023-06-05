@@ -22,6 +22,10 @@ Always eager to learn new things!
 
 ### Brief CV
 
+> A PDF copy of this CV can be downloaded from 
+[here](/assets/FerranCardoso_23CV.pdf)
+{: .prompt-info }
+
 <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/FerranCardoso_23CV.pdf&embedded=true" style="width:600px; height:846px; max-width: 100%" frameborder="0"></iframe> 
 
 ### Detailed Experience and Education
