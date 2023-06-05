@@ -1,9 +1,9 @@
 ---
-title: About myself
+title: About
 icon: fas fa-info-circle
 order: 4
 math: true
-layout: post
+<!-- layout: post -->
 toc: true
 ---
 
