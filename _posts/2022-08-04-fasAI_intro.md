@@ -21,5 +21,13 @@ All of this can be done through [nbdev](https://nbdev.fast.ai/)
 _From nbdev's site_
 
 This philosophy really puts forward the idea of readability and openness at all levels, so I decided to apply it to a couple of upcoming projects.
+Stay tunned for that!
 
 If you want to try it out yourself, check out their [step-by-step guide here](https://nbdev.fast.ai/tutorials/tutorial.html).
+
+<!-- Nbdev stuff: 
+
+Added R (and rmarkdown) to the conda environment so that quarto )installed from tar.ball binary) could run properly: 
+
+tar -C ~/opt -xvzf quarto-1.3.287-linux-amd64.tar.gz  -->
+

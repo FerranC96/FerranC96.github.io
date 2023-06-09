@@ -8,6 +8,9 @@ categories: [Conference/Event, Poster]
 The aim of this post is to host a copy of the poster presented at UCL Cancer 
 Domain Symposium 2022, which was awarded with the first prize runner-up.
 
+The work presented in the poster eventually developed into that shown in 
+Cardoso Rodriguez & Qin et al. 2023.
+
 > The poster has been deposited in fig**share** under the following DOI:
 [https://doi.org/10.5522/04/19753468.v1](https://doi.org/10.5522/04/19753468.v1)
 {: .prompt-info }
