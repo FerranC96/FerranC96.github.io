@@ -4,19 +4,12 @@ date: 2023-01-01 00:00:00 +0000
 categories: [Tech, Linux]
 ---
 
-Immutable OS. 
-Silverblue, rpm-ostree, layered packages and flatpaks.
-Containers with toolbox and podman.
+### Introduction
 
-Swap file for big data analysis projects.
-
-ZSH
-
-Introduction:
 Fedora Silverblue is a Fedora spin that offers an immutable base managed by rpm-ostree.
 Here I will present my Siverblue set-up, with the main layered packages I have on top of the base image and some other modifications I have needed both for work and other projects. While this is mainly for my own records, I figured someone could benefit from it, so here we go!
 
-### Layered Packages:
+### Layered Packages
 
 - **Visual Studio Code**: While a Flatpak version exists, layering VS Code results in a better integrated application and doesn't require of certain workarounds.
 - **Gnome-tweaks**: A MUST HAVE for customizing the GNOME desktop environment. The Extension Manager flatpak pairs with it greatly.
@@ -26,7 +19,7 @@ Here I will present my Siverblue set-up, with the main layered packages I have o
 - **ZSH**: Current shell of choice.
 - **Openssl**: This would be the least important one. Mainly used as a dependency by GSConnect (GNOME extension implementing KDEConnect)
 
-### Shell Configuration:
+### Shell Configuration
 
 - Install ZSH using `rpm-ostree` and set it as the default shell with the following command: `sudo lchsh $USER`.
 - **Oh My Zsh** to manage zsh. I like to go with the **Powerlevel10k** theme and the patched Meslo font.
@@ -34,7 +27,7 @@ Here I will present my Siverblue set-up, with the main layered packages I have o
     - Customize the theme by modifying the `P10k.zsh` file.
 - Micromamba is also a great drop-in replacement for conda. Much faster and easier to deploy (install) in cloud environments too!
 
-### Containers with Toolbox and Podman:
+### Containers with Toolbox and Podman
 
 General notes:
 
