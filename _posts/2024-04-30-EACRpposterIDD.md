@@ -13,4 +13,4 @@ This is a stub entry discussing my experience at this year's [EACR Cancer Genomi
 > A PDF copy of this poster's abstract can be downloaded from [here](/assets/PDFs/CMCB24_EACR.pdf)
 {: .prompt-info }
 
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/PDFs/CMCB24_EACR_SVG.pdf&embedded=true" style="width:600px; height:846px; max-width: 100%" frameborder="0"></iframe> 
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/PDFs/CMCB24poster.pdf&embedded=true" style="width:600px; height:846px; max-width: 100%" frameborder="0"></iframe> 
