@@ -23,7 +23,7 @@ timezone: Europe/London
 
 title: Ferran Cardoso                          # the main title
 
-tagline: Personal profile and professional portfolio   # it will display as the sub-title
+tagline: Personal Profile and Professional Portfolio   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Ferran Cardoso`s personal profile, portfolio of academical publications, and other outputs. 

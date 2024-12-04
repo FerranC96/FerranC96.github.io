@@ -7,9 +7,9 @@
   type: mastodon
   icon: 'fab fa-mastodon'   
   url:  'https://fosstodon.org/@ferranc96'
--
-  type: twitter
-  icon: 'fab fa-twitter'
+# -
+#   type: twitter
+#   icon: 'fab fa-twitter'
 -
   type: linkedin
   icon: 'fab fa-linkedin'
