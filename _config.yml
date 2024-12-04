@@ -45,7 +45,7 @@ social:
   email: fcardoso96@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/FerranC96      # change to your twitter homepage
+    # - https://twitter.com/FerranC96      # change to your twitter homepage
     - https://github.com/FerranC96       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -84,7 +84,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.fosstodon.org/accounts/avatars/109/310/658/398/751/756/original/5c49c994ac4f070f.jpg
+avatar: https://media.licdn.com/dms/image/v2/D5603AQHipbxTwRkMZA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729524547057?e=1738800000&v=beta&t=5EEkSbVAVZr0fO4fbadlW32eCj8lZpDaaYTaOPXM630
 
 # boolean type, the global switch for ToC in posts.
 toc: true

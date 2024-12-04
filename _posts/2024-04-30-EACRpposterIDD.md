@@ -1,5 +1,5 @@
 ---
-title: Presenting the IDD platform at the EACR Cancer Multiomics conference and 
+title: Presenting the IDD platform at the EACR Cancer Multiomics conference
 date: 2024-04-30 00:00:00 +0000
 categories: [Conference/Event, Poster]
 ---
@@ -10,7 +10,7 @@ This is a stub entry discussing my experience at this year's [EACR Cancer Genomi
 
 ## Building a Platform for Integrative Discovery and Diagnostics in Cancer
 
-> A PDF copy of this poster's abstract can be downloaded from [here](/assets/PDFs/CMCB24_EACR.pdf)
+> A PDF copy of this poster's abstract can be downloaded from [here](/assets/PDFs/CMCB24_EACR.pdf), and cited via [DOI: 10.6084/m9.figshare.26414029](https://doi.org/10.6084/m9.figshare.26414029.v1)
 {: .prompt-info }
 
 <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/FerranC96/FerranC96.github.io/main/assets/PDFs/CMCB24poster.pdf&embedded=true" style="width:600px; height:846px; max-width: 100%" frameborder="0"></iframe> 
