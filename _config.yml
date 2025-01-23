@@ -42,7 +42,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ferran Cardoso Rodriguez
-  email: fcardoso96@outlook.com             # change to your email address
+  email: fercr.post@outlook.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/FerranC96      # change to your twitter homepage
@@ -117,6 +117,9 @@ assets:
     env:          # [development|production]
 
 paginate: 10
+
+plugins:
+  - jekyll-feed
 
 # ------------ The following options are not recommended to be modified ------------------
 
