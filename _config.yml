@@ -30,10 +30,10 @@ description: >-                        # used by seo meta and the atom feed
   Uses a minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ferranc96.github.io'
+url: 'https://fercrcode.github.io'
 
 github:
-  username: FerranC96             # change to your github username
+  username: Fercrcode             # change to your github username
 
 twitter:
   username: FerranC96            # change to your twitter username
@@ -46,10 +46,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/FerranC96      # change to your twitter homepage
-    - https://github.com/FerranC96       # change to your github homepage
+    - https://github.com/fercrcode       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ferranc96/
+    - https://www.linkedin.com/in/fercrprof/
 
 google_site_verification:               # fill in to your verification string
 
