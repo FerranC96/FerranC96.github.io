@@ -6,14 +6,14 @@
 -
   type: mastodon
   icon: 'fab fa-mastodon'   
-  url:  'https://fosstodon.org/@ferranc96'
+  url:  'https://fosstodon.org/@fercr'
 # -
 #   type: twitter
 #   icon: 'fab fa-twitter'
 -
   type: linkedin
   icon: 'fab fa-linkedin'
-  url:  'https://www.linkedin.com/in/ferranc96/'
+  url:  'https://www.linkedin.com/in/fercrprof/'
 -
   type: email
   icon: 'fas fa-envelope'
