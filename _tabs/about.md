@@ -39,4 +39,4 @@ Check out the amazing things she's done as [Aquacletas here](https://aquacletas.
 <!-- Badge test:
 {{ site.linkedin_badge }} -->
 
-<a rel="me" href="https://fosstodon.org/@ferranc96"></a>
+<a rel="me" href="https://fosstodon.org/@fercr"></a>
